@@ -9,7 +9,11 @@ Please use this wiki to share any information related to the development process
 ## Resources
 
 Kunena homepage: [www.kunena.org](http://www.kunena.org)
+
 User documentation: [docs.kunena.org](http://docs.kunena.org/index.php/Main_Page)
+
 Follow us on Twitter: [twitter.com/#!/kunena](https://twitter.com/#!/kunena)
+
 Playground: [www.kunena.org/playground](http://www.kunena.org/playground)
+
 Showcase: [www.kunena.org/showcase](http://www.kunena.org/showcase)
