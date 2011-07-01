@@ -2,11 +2,13 @@
 
 Please use this wiki to share any information related to the development process of Kunena. We encourage all developers to contribute!
 
+## Developer Resources
+
 [[Overview of branches]]
 
 [[Zend studio setup]]
 
-## Resources
+## Additional information
 
 Kunena homepage: [www.kunena.org](http://www.kunena.org)
 
