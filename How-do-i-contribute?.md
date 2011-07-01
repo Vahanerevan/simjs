@@ -1,4 +1,4 @@
-Contributions to the Kunena projects have never been easier. WIth our move to github, the Kunena source code has become social.
+Contributions to the Kunena projects have never been easier. With our move to github, the Kunena source code has become social.
 
 What does that mean?
 
