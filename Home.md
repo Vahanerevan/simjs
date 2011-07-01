@@ -4,6 +4,8 @@ Please use this wiki to share any information related to the development process
 
 ## Developer Resources
 
+[[How do I contribute?]]
+
 [[Overview of branches]]
 
 [[Zend studio setup]]
