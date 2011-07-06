@@ -12,6 +12,8 @@ Before you start please make sure you have read our [README](https://github.com/
 
 [[Zend studio setup]]
 
+[[Useful git commands]]
+
 ## Additional information
 
 Kunena homepage: [www.kunena.org](http://www.kunena.org)
