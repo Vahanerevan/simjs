@@ -16,6 +16,8 @@ Before you start please make sure you have read our [README](https://github.com/
 
 [[How to handle conflicts with git]]
 
+[[Tips with git bash]]
+
 ## Additional information
 
 Kunena homepage: [www.kunena.org](http://www.kunena.org)
