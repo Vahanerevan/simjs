@@ -14,6 +14,8 @@ Before you start please make sure you have read our [README](https://github.com/
 
 [[Useful git commands]]
 
+[[How to handle conflicts with git]]
+
 ## Additional information
 
 Kunena homepage: [www.kunena.org](http://www.kunena.org)
