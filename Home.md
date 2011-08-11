@@ -18,6 +18,8 @@ Before you start please make sure you have read our [README](https://github.com/
 
 [[Tips with git bash]]
 
+[[Create a new branch with git and manage branches]]
+
 ## Additional information
 
 Kunena homepage: [www.kunena.org](http://www.kunena.org)
