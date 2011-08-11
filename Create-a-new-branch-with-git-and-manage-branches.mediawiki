@@ -43,7 +43,7 @@ Delete a branch on your local filesytem :
 
 Delete the branch on github :
 
-<pre>git push origin :<name_of_your_new_branch><pre>
+<pre>git push origin :<name_of_your_new_branch></pre>
 
 The only difference it's the : to say delete.
 
