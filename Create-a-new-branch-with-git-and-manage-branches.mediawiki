@@ -1,4 +1,4 @@
-In your github fork, you need to keep your master branch clean, i mean by clean without any changes, like that you can create at any time a branch from your master. Each time, that you wnat commit a bug or
+In your github fork, you need to keep your master branch clean, i mean by clean without any changes, like that you can create at any time a branch from your master. Each time, that you want commit a bug or
 a feature, you need to create a branch for it, which will be somehow the copy of your master branch. 
 
 When you will do a pull request on a branch, you can continue to work on an another branch and make an another pull request on this other branch. 
