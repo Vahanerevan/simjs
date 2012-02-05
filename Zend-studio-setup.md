@@ -1,5 +1,9 @@
 Starting with Zend Studio 9.0 the support comes as part of the default installation of the IDE:
+
 http://www.zend.com/en/products/studio/studio-whats-new#git
+
+
+***
 
 How to install and setup EGit:
 http://clintberry.com/2011/02/zend-studio-and-github/
