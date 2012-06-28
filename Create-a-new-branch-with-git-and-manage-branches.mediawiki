@@ -25,9 +25,11 @@ You can see all branches created by using
 
 Which will show :
 
-<pre>* approval_messages</pre>
-<pre>  master</pre>
- <pre> master_clean</pre>
+<pre>
+* approval_messages
+  master
+  master_clean
+</pre>
 
 Add a new remote for you branch :
 
