@@ -2,7 +2,7 @@
 
 Please use this wiki to share any information related to the development process of Kunena. We encourage all developers to contribute!
 
-Before you start please make sure you have read our [README](https://github.com/Kunena/Kunena/blob/master/README.markdown)
+Before you start please make sure you have read our [README](https://github.com/Kunena/Kunena/blob/master/README.md)
 
 ## Developer Resources
 
