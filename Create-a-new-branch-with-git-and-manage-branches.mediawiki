@@ -7,11 +7,11 @@ Before create a new branch pull the changes from upstream, your master need to b
 
 Create the branch on your local machine :
 
-<pre>git branch <name_of_your_new_branch></pre>
+<pre>git branch <name_of_your_new_branch></pre>  
 
 Push the branch on github :
 
-<pre>git push origin <name_of_your_new_branch></pre>
+<pre>git push origin <name_of_your_new_branch></pre>  MISSING SOMETHING?
 
 Switch to your new branch :
 
