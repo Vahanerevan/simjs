@@ -1,4 +1,4 @@
-Git Issues
+# Git Issues
 
 Label Descriptions
 * bug - Bug in current implementation does not always return expected behavior.
