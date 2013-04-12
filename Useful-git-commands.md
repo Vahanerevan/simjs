@@ -18,7 +18,7 @@ Tagging a release:
 Finding out all changes between two releases:
 
     git fetch --tags upstream
-    git log --no-merges 2.0.3..2.0.4 >../changelog-2.0.4.txt
+    git log --no-merges --oneline 2.0.3..2.0.4 >../changelog-2.0.4.txt
 
 ## Scripts
 
