@@ -31,7 +31,7 @@ Which will show :
   master_clean
 </pre>
 
-Add a new remote for you branch :
+Add a new remote for your branch :
 
 <pre>$ git remote add <name_of_your_remote> <url></pre>
 
