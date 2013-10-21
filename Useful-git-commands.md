@@ -12,7 +12,7 @@ If you want to make a patch from one commit (K1.6 -> K2.0), you can do it like t
 
 Tagging a release:
 
-    git tag -a 2.0.4 -m 'Tagging Kunena 2.0.4 release'
+    git tag -a 3.0.3 -m 'Kunena 3.0.3 Release'
     git push upstream --tags
 
 Finding out all changes between two releases:
