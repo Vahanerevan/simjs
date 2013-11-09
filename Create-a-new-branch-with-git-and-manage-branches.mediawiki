@@ -3,7 +3,7 @@ a feature, you need to create a branch for it, which will be somehow the copy of
 
 When you will do a pull request on a branch, you can continue to work on an another branch and make an another pull request on this other branch. 
 
-Before create a new branch pull the changes from upstream, your master need to be uptodate.
+Before creating a new branch pull the changes from upstream, your master need to be uptodate.
 
 Create the branch on your local machine :
 
