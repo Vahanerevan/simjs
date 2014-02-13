@@ -6,7 +6,7 @@
 
 [feature-hmvc][3.1.0.95]: This issue is an issue, did we do recursion?
 
-##Label Color guideline
+##Label Color Guideline
 * All labels that are directly RELATED to Kunena, have an ACCEPTED status related to the definition of the label. The label will define a specific color of the normal color spectrum (red, orange, yellow, green, blue, purple) excluding tones of black and white.
 * All labels that are directly RELATED to Kunena, have an PENDING status related to the definition of the label. The label will define a specific color black excluding tones of the normal color spectrum (red, orange, yellow, green, blue, purple) and white.
 * All labels that are directly NOT RELATED to Kunena, have an REJECTED status related to the definition of the label.  The label will define a specific color white excluding tones of the normal color spectrum (red, orange, yellow, green, blue, purple) and black.
