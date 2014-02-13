@@ -20,14 +20,14 @@ Before you start please make sure you have read our [README](https://github.com/
 
 [[Create a new branch with git and manage branches]]
 
+[[Git Issues Guidelines]]
+
 ## Additional information
 
-Kunena homepage: [www.kunena.org](http://www.kunena.org)
+Kunena Homepage: [www.kunena.org](http://kunena.org)
 
-User documentation: [docs.kunena.org](http://docs.kunena.org/index.php/Main_Page)
+User Documentation: [docs.kunena.org](http://kunena.org/docs)
 
-Follow us on Twitter: [twitter.com/#!/kunena](https://twitter.com/#!/kunena)
+Follow us on Twitter: [twitter.com/kunena](https://twitter.com/kunena)
 
 Playground: [www.kunena.org/playground](http://www.kunena.org/playground)
-
-Showcase: [www.kunena.org/showcase](http://www.kunena.org/showcase)
