@@ -19,7 +19,11 @@
 information.
 * enhance - Current implementation is already in place but can be enhanced to include improved or modified behavior 
 * feature - Feature is an accepted proposal for implementation.
+* fixed? - Implementation is available, but is the issue fixed regarding the context of the issue.
 * joomla - Joomla specific problem.
 * proposed - Proposed feature implementation.
 * pull - Pending pull request.
-* top - 
+* rejected - 
+* third party - 
+* top -
+* unconfirmed - 
