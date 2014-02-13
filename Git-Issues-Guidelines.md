@@ -1,5 +1,4 @@
-# Git Issues
-
+This is a guideline on how to make, process, and describe issues.
 
 ##Issue Format
 [branch_name"\<prefix\>-\<name\>-*"][version"\<major\>.\<minor\>.\<revision\>.\<build\>"]: description
