@@ -9,7 +9,7 @@
 ##Label Color guideline
 * All labels that are directly RELATED to Kunena, have an ACCEPTED status will define a specific color of the normal color spectrum (red, orange, yellow, green, blue, purple) excluding tones of black and white.
 * All labels that are directly RELATED to Kunena, have an PENDING status will define a specific color black excluding tones of the normal color spectrum (red, orange, yellow, green, blue, purple) and white.
-* All labels that are directly NOT RELATED to Kunena, have an PENDING status will define a specific color white excluding tones of the normal color spectrum (red, orange, yellow, green, blue, purple) and black.
+* All labels that are directly NOT RELATED to Kunena, have an REJECTED status will define a specific color white excluding tones of the normal color spectrum (red, orange, yellow, green, blue, purple) and black.
 
 ##Label Descriptions
 * <major>.<minor> Version when the issue was originally created.
