@@ -3,6 +3,7 @@
 
 ##Issue Format
 [branch_name"\<prefix\>-\<name\>-*"][version"\<major\>.\<minor\>.\<revision\>.\<build\>"]: description
+
 [feature-hmvc][3.1.0.95]: This issue is an issue, did we do recursion?
 
 ##Label Color guideline.
