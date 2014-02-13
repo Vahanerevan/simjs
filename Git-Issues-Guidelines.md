@@ -12,7 +12,7 @@
 * All labels that are directly NOT RELATED to Kunena, have an REJECTED status will define a specific color white excluding tones of the normal color spectrum (red, orange, yellow, green, blue, purple) and black.
 
 ##Label Descriptions
-* <major>.<minor> Version when the issue was originally created.
+* \<major\>.\<minor\> Version when the issue was originally created.
 * bug - Bug in implementation, does not always return expected behavior.
 * crash - Crash in implementation, program does not exit correctly.
 * docs - Documentation for current implementation.
