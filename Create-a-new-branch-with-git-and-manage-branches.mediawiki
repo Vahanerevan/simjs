@@ -35,6 +35,14 @@ Push changes from your commit into your branch :
 
 <pre>$ git push origin <name_of_your_remote></pre>
 
+Update your branch when the original branch from official repository has been updated : 
+
+<pre>$ git fetch <name_of_your_remote></pre>
+
+Then you need to apply to merge changes, if your branch is derivated from develop you need to do : 
+
+<pre>$ git merge <name_of_your_remote>/develop</pre>
+
 Delete a branch on your local filesytem :
 
 <pre>$ git branch -d <name_of_your_new_branch></pre>
