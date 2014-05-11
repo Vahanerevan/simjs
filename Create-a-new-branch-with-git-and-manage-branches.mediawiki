@@ -47,6 +47,10 @@ Delete a branch on your local filesytem :
 
 <pre>$ git branch -d <name_of_your_new_branch></pre>
 
+To force the deletion of local branch on your filessytem : 
+
+<pre>$ git branch -D <name_of_your_new_branch></pre>
+
 Delete the branch on github :
 
 <pre>$ git push origin :<name_of_your_new_branch></pre>
