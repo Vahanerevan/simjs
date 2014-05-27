@@ -10,8 +10,6 @@ Before you start please make sure you have read our [README](https://github.com/
 
 [[Overview of branches]]
 
-[[Zend studio setup]]
-
 [[Useful git commands]]
 
 [[How to handle conflicts with git]]
