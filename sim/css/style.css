@@ -1,0 +1,25 @@
+
+*  {
+    margin: 0 ;
+    padding: 0;
+}
+
+
+body {  background: #2e2e2e;}
+ 
+
+
+#canvas {
+    
+    width: 800px;
+    height: 800px;
+    margin: 0 auto;
+ 
+}
+
+.myCanvas 
+{
+    width: 1000px;
+    margin: 0 auto;
+ 
+}
