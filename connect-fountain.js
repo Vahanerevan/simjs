@@ -1,6 +1,5 @@
 var sim = require('fountain').FountainClass.createFountain();
 require('./functions');
-console.log(sim);
 
 
 
